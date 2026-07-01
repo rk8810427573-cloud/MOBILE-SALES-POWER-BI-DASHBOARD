@@ -20,4 +20,4 @@ An interactive Power BI dashboard for analyzing Motorola mobile sales performanc
 
 ## Dashboard Preview
 
-![Dashboard]()
+![Dashboard](DASHBOARD.PNG)
